@@ -1,0 +1,28 @@
+name: BelleKey
+favicon: null
+layout_spectrum: 0.9598126411437988
+typography_spectrum: 0.7224717133212835
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.7405643095262349
+  lightness: 0.3594666754361242
+  saturation: 0.7388097085058689
+  rhythmicContrast: 0.1935192181263119
+purpose: []
